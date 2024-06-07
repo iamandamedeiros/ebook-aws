@@ -1,4 +1,4 @@
-# Projeto EBOOK Gerado por I.A.s
+# Projeto E-BOOK Gerado por I.A.s
 
 
  > ℹ️ **NOTE:** Este repositório foi desenvolvido durante curso na plataforma da [DIO](https://dio.me)
@@ -51,7 +51,7 @@ Leonardo.Ai：
     GitHub</a>&nbsp;|&nbsp;
     <a href="https://linkedin.com/in/iamandamedeiros/"> 
     LinkedIn</a>&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
+    <a href="https://www.instagram.com/iamandamedeiros/">
     Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
